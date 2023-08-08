@@ -23,11 +23,18 @@
 
 
 ### 💡 Projects
-<table>
+<table align=center>
     <tr><th colspan=2>Deep Learning</th></tr>
     <tr><td>
         <table>
             <tr><th>Title</th><th>Tags</th><th>Techs</th><th>Status</th></tr>
+            <tr>
+                <td> <a href="https://github.com/suin00h/votenet-reimplementation">VoteNet Reimplementation</a> </td>
+                <td>    <img src="https://img.shields.io/badge/3DVision-black?style=flat&logo=gtk&logoColor=red" alt="3DV">
+                <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD"> </td>
+                <td> <img src="https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch" alt="PyTorch"> </td>
+                <td> <img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"> </td>
+            </tr>
             <tr>
                 <td> <a href="https://github.com/suin00h/motion-to-emotion">Motion to Emotion</a> </td>
                 <td>    <img src="https://img.shields.io/badge/ComputerVision-black?style=flat&logo=codereview&logoColor=skyblue" alt="CV">
