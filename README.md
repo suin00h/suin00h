@@ -1,6 +1,6 @@
 <p align=center>
-    
 <img src="https://github-stats-alpha.vercel.app/api?username=suin00h&cc=35155D&tc=FFF&ic=8CABFF&bc=4477CE"> 
+</p>
     
 * 🎓 Undergraduate student in Computer Science and Engineering @ [Korea University](https://www.korea.ac.kr/mbshome/mbs/university/index.do)
   
@@ -8,19 +8,26 @@
 
 * 📩 Contact email @ suin00h@korea.ac.kr
 
-</p>
 
 ### 🔎 Research Interests
-<img src="https://img.shields.io/badge/ComputerVision-black?style=flat&logo=codereview&logoColor=skyblue" alt="CV"><!-->
-<img src="https://img.shields.io/badge/3DVision-black?style=flat&logo=gtk&logoColor=red" alt="3DV">
-<img src="https://img.shields.io/badge/GenerativeModels-black?style=flat&logo=pixiv" alt="GM">
+<div class="research-interests">
+    <img src="https://img.shields.io/badge/ComputerVision-black?style=flat&logo=codereview&logoColor=skyblue" alt="CV">
+    <img src="https://img.shields.io/badge/3DVision-black?style=flat&logo=gtk&logoColor=red" alt="3DV">
+    <img src="https://img.shields.io/badge/GenerativeModels-black?style=flat&logo=pixiv" alt="GM">
+</div>
 
 ### 🔋 Skills
-<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=flat&logo=c&logoColor=black" /><!-->
-<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=flat&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" />ㅤ
+<div class="skills">
+    <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=flat&logo=c&logoColor=black" />
+    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=flat&logo=pytorch&logoColor=white" />ㅤ
+</div>
 
+### 🏫 Currently Learning
+<div class="learning">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</div>
 
 ### 💡 Projects
 <table align=center>
