@@ -18,15 +18,15 @@
 </div>
 
 ### 🔋 Skills
-* AI / DL Development  
+* **AI / DL Development**  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-%23EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white)
 
-* PS  
+* **PS**  
     ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=black)
 
 ### 🥽 Currently Learning
-* Web Development  
+* **Web Development**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-292929?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -40,7 +40,7 @@
 </tr>
 <tr>
     <td>
-    <table>
+    <table align=center>
     <tr><th>Title</th><th>Tags</th><th>Techs</th><th>Status</th></tr>
     <tr>
         <td><a href="https://github.com/suin00h/votenet-reimplementation">VoteNet Reimplementation</a></td>
@@ -84,7 +84,7 @@
 </tr>
 <tr>
     <td>
-    <table>
+    <table align=center>
     <tr>
         <th>Title</th><th>Framework/Library</th><th>Status</th>
     </tr>
