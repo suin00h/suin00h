@@ -2,22 +2,20 @@
 <img src="https://github-stats-alpha.vercel.app/api?username=suin00h&cc=35155D&tc=FFF&ic=8CABFF&bc=4477CE"> 
 </p>
 
-### 🦝 I'm now ...
+## 🦝 I'm now ...
 * 🎓 Undergraduate student in Computer Science and Engineering @ [Korea University](https://www.korea.ac.kr/mbshome/mbs/university/index.do)
   
 * 💻 Undergraduate intern @ [MLV Lab](https://www.hyunwoojkim.com/)
 
-* 📩 Contact email @ suin00h@korea.ac.kr
-
-
-### 🔎 Research Interests
+* 📩 Contact email @ suin00h@korea.ac.kr  
+## 🔎 Research Interests
 <div class="research-interests">
     <img src="https://img.shields.io/badge/ComputerVision-black?style=flat&logo=codereview&logoColor=skyblue" alt="CV">
     <img src="https://img.shields.io/badge/3DVision-black?style=flat&logo=gtk&logoColor=red" alt="3DV">
     <img src="https://img.shields.io/badge/GenerativeModels-black?style=flat&logo=pixiv" alt="GM">
 </div>
 
-### 🔋 Skills
+## 🔋 Skills
 * **AI / DL Development**  
 ![Python](https://img.shields.io/badge/Python-4B8BBE?&style=flat-square&logo=python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-DE3412?&style=flat-square&logo=pytorch&logoColor=white)
@@ -26,7 +24,7 @@
     ![C](https://img.shields.io/badge/C-283593?&style=flat-square&logo=c&logoColor=white)
     ![Git](https://img.shields.io/badge/Git-F1502F?&style=flat-square&logo=git&logoColor=white)
 
-### 🥽 Currently Learning
+## 🥽 Currently Learning
 * **Web Development**  
 ![HTML](https://img.shields.io/badge/HTML5-f06529?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
@@ -34,7 +32,7 @@
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
-### 💡 Projects
+## 💡 Projects
 * **Deep Learning**
 <table align=center>
 <tr><th>Title</th><th>Tags</th><th>Techs</th><th>Status</th></tr>
