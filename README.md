@@ -35,71 +35,67 @@
 ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ### 💡 Projects
+* **Deep Learning**
+<table align=center>
+<tr><th>Title</th><th>Tags</th><th>Techs</th><th>Status</th></tr>
+<tr>
+    <td><a href="https://github.com/suin00h/votenet-reimplementation">VoteNet Reimplementation</a></td>
+    <td>
+        <img src="https://img.shields.io/badge/3DVision-black?style=flat&logo=gtk&logoColor=red" alt="3DV">
+        <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD">
+    </td>
+    <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
+    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/suin00h/catdog-by-ccgan">Catdog by CCGAN</a></td>
+    <td>
+        <img src="https://img.shields.io/badge/GenerativeModels-black?style=flat&logo=pixiv" alt="GM">
+    </td>
+    <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
+    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/suin00h/motion-to-emotion">Motion to Emotion</a></td>
+    <td>
+        <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD"> 
+        <img src="https://img.shields.io/badge/EmotionAnalysis-black?style=flat&logo=undertale&logoColor=EC5990" alt="EA">
+    </td>
+    <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
+    <td><img src="https://img.shields.io/badge/Completed-black?style=flat&logo=conventionalcommits&logoColor=red" alt="Cls"></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/suin00h/petrain">PETRAIN</a> </td>
+    <td>
+        <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD">
+    </td>
+    <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
+    <td><img src="https://img.shields.io/badge/Completed-black?style=flat&logo=conventionalcommits&logoColor=red" alt="Cls"></td>
+</tr>
+</table>
+
+* **Web Development**
 <table align=center>
 <tr>
-    <th>Deep Learning</th>
+    <th>Title</th><th>Framework/Library</th><th>Status</th>
 </tr>
 <tr>
+    <td><a href="https://github.com/suin00h/sveltekit-learn">SvelteKit Learn</a></td>
+    <td><img src="https://img.shields.io/badge/SvelteKit-black?style=flat&logo=svelte&logoColor=FF3E00"/></td>
+    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/suin00h/react-learn">React Learn</a></td>
+    <td><img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61dafb"/></td>
+    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/suin00h/web-learn">Web Learn</a></td>
     <td>
-    <table align=center>
-    <tr><th>Title</th><th>Tags</th><th>Techs</th><th>Status</th></tr>
-    <tr>
-        <td><a href="https://github.com/suin00h/votenet-reimplementation">VoteNet Reimplementation</a></td>
-        <td>
-            <img src="https://img.shields.io/badge/3DVision-black?style=flat&logo=gtk&logoColor=red" alt="3DV">
-            <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD">
-        </td>
-        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
-        <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/suin00h/catdog-by-ccgan">Catdog by CCGAN</a></td>
-        <td>
-            <img src="https://img.shields.io/badge/GenerativeModels-black?style=flat&logo=pixiv" alt="GM">
-        </td>
-        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
-        <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/suin00h/motion-to-emotion">Motion to Emotion</a></td>
-        <td>
-            <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD"> 
-            <img src="https://img.shields.io/badge/EmotionAnalysis-black?style=flat&logo=bvg&logoColor=pink" alt="EA">
-        </td>
-        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
-        <td><img src="https://img.shields.io/badge/Completed-black?style=flat&logo=conventionalcommits&logoColor=red" alt="Cls"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/suin00h/petrain">PETRAIN</a> </td>
-        <td>
-            <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD">
-        </td>
-        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
-        <td><img src="https://img.shields.io/badge/Completed-black?style=flat&logo=conventionalcommits&logoColor=red" alt="Cls"></td>
-    </tr>
-    </table>
+        <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=f06529"/>
+        <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=2965f1"/>
+        <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=f0db4f"/>
     </td>
-</tr>
-<tr>
-    <th>Web Development</th>
-</tr>
-<tr>
-    <td>
-    <table align=center>
-    <tr>
-        <th>Title</th><th>Framework/Library</th><th>Status</th>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/suin00h/sveltekit-learn">SvelteKit Learn</a></td>
-        <td><img src="https://img.shields.io/badge/SvelteKit-black?style=flat&logo=svelte&logoColor=FF3E00"/></td>
-        <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/suin00h/react-learn">React Learn</a></td>
-        <td><img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61dafb"/></td>
-        <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
-    </tr>
-    </table>
-    </td>
+    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
 </tr>
 </table>
