@@ -9,11 +9,9 @@
 
 * 📩 Contact email @ suin00h@korea.ac.kr  
 ## 🔎 Research Interests
-<div class="research-interests">
-    <img src="https://img.shields.io/badge/ComputerVision-black?style=flat&logo=codereview&logoColor=skyblue" alt="CV">
-    <img src="https://img.shields.io/badge/3DVision-black?style=flat&logo=gtk&logoColor=red" alt="3DV">
-    <img src="https://img.shields.io/badge/GenerativeModels-black?style=flat&logo=pixiv" alt="GM">
-</div>
+![CV](https://img.shields.io/badge/ComputerVision-black?style=flat-square&logo=codereview&logoColor=skyblue)
+![3D](https://img.shields.io/badge/3DVision-black?style=flat-square&logo=gtk&logoColor=red)
+![GM](https://img.shields.io/badge/GenerativeModels-black?style=flat-square&logo=pixiv)
 
 ## 🔋 Skills
 * **AI / DL Development**  
