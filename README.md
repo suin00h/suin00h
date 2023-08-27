@@ -19,18 +19,19 @@
 
 ### 🔋 Skills
 * **AI / DL Development**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
-![Pytorch](https://img.shields.io/badge/Pytorch-%23EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?&style=flat-square&logo=python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-DE3412?&style=flat-square&logo=pytorch&logoColor=white)
 
-* **PS**  
-    ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=flat-square&logo=c&logoColor=black)
+* **PS / Misc**  
+    ![C](https://img.shields.io/badge/C-283593?&style=flat-square&logo=c&logoColor=white)
+    ![Git](https://img.shields.io/badge/Git-F1502F?&style=flat-square&logo=git&logoColor=white)
 
 ### 🥽 Currently Learning
 * **Web Development**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-292929?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-1C1C1C?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-f06529?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=f0db4f)  
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
 ### 💡 Projects
@@ -48,7 +49,7 @@
             <img src="https://img.shields.io/badge/3DVision-black?style=flat&logo=gtk&logoColor=red" alt="3DV">
             <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD">
         </td>
-        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=%23EE4C2C" /></td>
+        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
         <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
     </tr>
     <tr>
@@ -56,7 +57,7 @@
         <td>
             <img src="https://img.shields.io/badge/GenerativeModels-black?style=flat&logo=pixiv" alt="GM">
         </td>
-        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=%23EE4C2C" /></td>
+        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
         <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
     </tr>
     <tr>
@@ -65,7 +66,7 @@
             <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD"> 
             <img src="https://img.shields.io/badge/EmotionAnalysis-black?style=flat&logo=bvg&logoColor=pink" alt="EA">
         </td>
-        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=%23EE4C2C" /></td>
+        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
         <td><img src="https://img.shields.io/badge/Completed-black?style=flat&logo=conventionalcommits&logoColor=red" alt="Cls"></td>
     </tr>
     <tr>
@@ -73,7 +74,7 @@
         <td>
             <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD">
         </td>
-        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=%23EE4C2C" /></td>
+        <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
         <td><img src="https://img.shields.io/badge/Completed-black?style=flat&logo=conventionalcommits&logoColor=red" alt="Cls"></td>
     </tr>
     </table>
@@ -95,7 +96,7 @@
     </tr>
     <tr>
         <td><a href="https://github.com/suin00h/react-learn">React Learn</a></td>
-        <td><img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61DAFB"/></td>
+        <td><img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61dafb"/></td>
         <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
     </tr>
     </table>
