@@ -76,16 +76,6 @@
     <th>Title</th><th>Framework/Library</th><th>Status</th>
 </tr>
 <tr>
-    <td><a href="https://github.com/suin00h/sveltekit-learn">SvelteKit Learn</a></td>
-    <td><img src="https://img.shields.io/badge/SvelteKit-black?style=flat&logo=svelte&logoColor=FF3E00"/></td>
-    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
-</tr>
-<tr>
-    <td><a href="https://github.com/suin00h/react-learn">React Learn</a></td>
-    <td><img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61dafb"/></td>
-    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
-</tr>
-<tr>
     <td><a href="https://github.com/suin00h/web-learn">Web Learn</a></td>
     <td>
         <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=f06529"/>
@@ -93,5 +83,15 @@
         <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=f0db4f"/>
     </td>
     <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/suin00h/react-learn">React Learn</a></td>
+    <td><img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61dafb"/></td>
+    <td><img src="https://img.shields.io/badge/Paused-black?style=flat&logo=codeforces&logoColor=68B984" alt="Paused"></td>
+</tr>
+<tr>
+    <td><a href="https://github.com/suin00h/sveltekit-learn">SvelteKit Learn</a></td>
+    <td><img src="https://img.shields.io/badge/SvelteKit-black?style=flat&logo=svelte&logoColor=FF3E00"/></td>
+    <td><img src="https://img.shields.io/badge/Paused-black?style=flat&logo=codeforces&logoColor=68B984" alt="Paused"></td>
 </tr>
 </table>
