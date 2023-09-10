@@ -23,12 +23,19 @@
     ![Git](https://img.shields.io/badge/Git-F1502F?&style=flat-square&logo=git&logoColor=white)
 
 ## 🥽 Currently Learning
+* **AI / DL Development**  
+![CUDAC++](https://img.shields.io/badge/CUDA_C++-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
 * **Web Development**  
 ![HTML](https://img.shields.io/badge/HTML5-f06529?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-264de4?style=flat-square&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=f0db4f)  
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
 ![Svelte](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+* **PS / Misc**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
 
 ## 💡 Projects
 * **Deep Learning**
