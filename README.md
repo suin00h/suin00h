@@ -10,7 +10,7 @@
 * 📩 Contact email @ suin00h@korea.ac.kr  
 ## 🔎 Research Interests
 ![CV](https://img.shields.io/badge/ComputerVision-black?style=flat-square&logo=codereview&logoColor=skyblue)
-![3D](https://img.shields.io/badge/3DVision-black?style=flat-square&logo=gtk&logoColor=red)
+![3D](https://img.shields.io/badge/3DVision-black?style=flat-square&logo=gtk&logoColor=8A8DED)
 ![GM](https://img.shields.io/badge/GenerativeModels-black?style=flat-square&logo=pixiv)
 
 ## 🔋 Skills
@@ -44,36 +44,34 @@
 <tr>
     <td><a href="https://github.com/suin00h/votenet-reimplementation">VoteNet Reimplementation</a></td>
     <td>
-        <img src="https://img.shields.io/badge/3DVision-black?style=flat&logo=gtk&logoColor=red" alt="3DV">
-        <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD">
+        <img src="https://img.shields.io/badge/3DVision-212030?style=flat-square&logo=gtk&logoColor=8A8DED">
+        <img src="https://img.shields.io/badge/ObjectDetection-212030?style=flat-square&logo=lens&logoColor=green">
     </td>
-    <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
-    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
+    <td><img src="https://img.shields.io/badge/Pytorch-212030?style=flat-square&logo=pytorch&logoColor=DE3412"></td>
+    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=19947C"></td>
 </tr>
 <tr>
     <td><a href="https://github.com/suin00h/catdog-by-ccgan">Catdog by CCGAN</a></td>
     <td>
-        <img src="https://img.shields.io/badge/GenerativeModels-black?style=flat&logo=pixiv" alt="GM">
+        <img src="https://img.shields.io/badge/GenerativeModels-212030?style=flat-square&logo=pixiv">
     </td>
-    <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
-    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
+    <td><img src="https://img.shields.io/badge/Pytorch-212030?style=flat-square&logo=pytorch&logoColor=DE3412"></td>
+    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=19947C"></td>
 </tr>
 <tr>
     <td><a href="https://github.com/suin00h/motion-to-emotion">Motion to Emotion</a></td>
     <td>
-        <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD"> 
-        <img src="https://img.shields.io/badge/EmotionAnalysis-black?style=flat&logo=undertale&logoColor=EC5990" alt="EA">
+        <img src="https://img.shields.io/badge/ObjectDetection-212030?style=flat-square&logo=lens&logoColor=green"> 
+        <img src="https://img.shields.io/badge/EmotionAnalysis-212030?style=flat-square&logo=undertale&logoColor=EC5990">
     </td>
-    <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
-    <td><img src="https://img.shields.io/badge/Completed-black?style=flat&logo=conventionalcommits&logoColor=red" alt="Cls"></td>
+    <td><img src="https://img.shields.io/badge/Pytorch-212030?style=flat-square&logo=pytorch&logoColor=DE3412"></td>
+    <td><img src="https://img.shields.io/badge/Completed-212030?style=flat-square&logo=conventionalcommits&logoColor=red"></td>
 </tr>
 <tr>
     <td><a href="https://github.com/suin00h/petrain">PETRAIN</a> </td>
-    <td>
-        <img src="https://img.shields.io/badge/ObjectDetection-black?style=flat&logo=lens&logoColor=green" alt="OD">
-    </td>
-    <td><img src="https://img.shields.io/badge/Pytorch-black?style=flat&logo=pytorch&logoColor=DE3412" /></td>
-    <td><img src="https://img.shields.io/badge/Completed-black?style=flat&logo=conventionalcommits&logoColor=red" alt="Cls"></td>
+    <td><img src="https://img.shields.io/badge/ObjectDetection-212030?style=flat-square&logo=lens&logoColor=green"></td>
+    <td><img src="https://img.shields.io/badge/Pytorch-212030?style=flat-square&logo=pytorch&logoColor=DE3412"></td>
+    <td><img src="https://img.shields.io/badge/Completed-212030?style=flat-square&logo=conventionalcommits&logoColor=red"></td>
 </tr>
 </table>
 
@@ -85,20 +83,20 @@
 <tr>
     <td><a href="https://github.com/suin00h/web-learn">Web Learn</a></td>
     <td>
-        <img src="https://img.shields.io/badge/HTML-black?style=flat&logo=html5&logoColor=f06529"/>
-        <img src="https://img.shields.io/badge/CSS-black?style=flat&logo=css3&logoColor=2965f1"/>
-        <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript&logoColor=f0db4f"/>
+        <img src="https://img.shields.io/badge/HTML-212030?style=flat-square&logo=html5&logoColor=f06529">
+        <img src="https://img.shields.io/badge/CSS-212030?style=flat-square&logo=css3&logoColor=2965f1">
+        <img src="https://img.shields.io/badge/JavaScript-212030?style=flat-square&logo=javascript&logoColor=f0db4f">
     </td>
-    <td><img src="https://img.shields.io/badge/Working-black?style=flat&logo=esbuild&logoColor=blue" alt="Wrk"></td>
+    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=19947C"></td>
 </tr>
 <tr>
     <td><a href="https://github.com/suin00h/react-learn">React Learn</a></td>
-    <td><img src="https://img.shields.io/badge/React-black?style=flat&logo=react&logoColor=61dafb"/></td>
-    <td><img src="https://img.shields.io/badge/Paused-black?style=flat&logo=codeforces&logoColor=68B984" alt="Paused"></td>
+    <td><img src="https://img.shields.io/badge/React-212030?style=flat-square&logo=react&logoColor=61dafb"></td>
+    <td><img src="https://img.shields.io/badge/Paused-212030?style=flat-square&logo=codeforces&logoColor=EE5980"></td>
 </tr>
 <tr>
     <td><a href="https://github.com/suin00h/sveltekit-learn">SvelteKit Learn</a></td>
-    <td><img src="https://img.shields.io/badge/SvelteKit-black?style=flat&logo=svelte&logoColor=FF3E00"/></td>
-    <td><img src="https://img.shields.io/badge/Paused-black?style=flat&logo=codeforces&logoColor=68B984" alt="Paused"></td>
+    <td><img src="https://img.shields.io/badge/SvelteKit-212030?style=flat-square&logo=svelte&logoColor=FF3E00"></td>
+    <td><img src="https://img.shields.io/badge/Paused-212030?style=flat-square&logo=codeforces&logoColor=EE5980"></td>
 </tr>
 </table>
