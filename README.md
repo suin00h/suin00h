@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/ObjectDetection-212030?style=flat-square&logo=lens&logoColor=green">
     </td>
     <td><img src="https://img.shields.io/badge/Pytorch-212030?style=flat-square&logo=pytorch&logoColor=DE3412"></td>
-    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=19947C"></td>
+    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=24DBB6"></td>
 </tr>
 <tr>
     <td><a href="https://github.com/suin00h/catdog-by-ccgan">Catdog by CCGAN</a></td>
@@ -56,7 +56,7 @@
         <img src="https://img.shields.io/badge/GenerativeModels-212030?style=flat-square&logo=pixiv">
     </td>
     <td><img src="https://img.shields.io/badge/Pytorch-212030?style=flat-square&logo=pytorch&logoColor=DE3412"></td>
-    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=19947C"></td>
+    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=24DBB6"></td>
 </tr>
 <tr>
     <td><a href="https://github.com/suin00h/motion-to-emotion">Motion to Emotion</a></td>
@@ -87,7 +87,7 @@
         <img src="https://img.shields.io/badge/CSS-212030?style=flat-square&logo=css3&logoColor=2965f1">
         <img src="https://img.shields.io/badge/JavaScript-212030?style=flat-square&logo=javascript&logoColor=f0db4f">
     </td>
-    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=19947C"></td>
+    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=24DBB6"></td>
 </tr>
 <tr>
     <td><a href="https://github.com/suin00h/react-learn">React Learn</a></td>
