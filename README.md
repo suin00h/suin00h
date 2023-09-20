@@ -51,7 +51,7 @@
     <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=24DBB6"></td>
 </tr>
 <tr>
-    <td><a href="https://github.com/suin00h/catdog-by-ccgan">Catdog by CCGAN</a></td>
+    <td><a href="https://github.com/suin00h/catdog-by-ccgan">Catdog by CGAN</a></td>
     <td>
         <img src="https://img.shields.io/badge/GenerativeModels-212030?style=flat-square&logo=pixiv">
     </td>
