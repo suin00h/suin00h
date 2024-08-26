@@ -4,8 +4,6 @@
 
 ## 🦝 I'm now ...
 * 🎓 Undergraduate student in Computer Science and Engineering @ [Korea University](https://www.korea.ac.kr/mbshome/mbs/university/index.do)
-  
-* 💻 Undergraduate intern @ [MLV Lab](https://www.hyunwoojkim.com/)
 
 * 📩 Contact email @ suin00h@korea.ac.kr  
 ## 🔎 Research Interests
