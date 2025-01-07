@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/ObjectDetection-212030?style=flat-square&logo=lens&logoColor=green">
     </td>
     <td><img src="https://img.shields.io/badge/Pytorch-212030?style=flat-square&logo=pytorch&logoColor=DE3412"></td>
-    <td><img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=24DBB6"></td>
+    <td><img src="https://img.shields.io/badge/Paused-212030?style=flat-square&logo=codeforces&logoColor=EE5980"></td>
 </tr>
 <tr>
     <td><a href="https://github.com/suin00h/catdog-by-ccgan">Catdog by CGAN</a></td>
@@ -37,3 +37,11 @@
     <td><img src="https://img.shields.io/badge/Paused-212030?style=flat-square&logo=codeforces&logoColor=EE5980"></td>
 </tr>
 </table>
+
+<!---
+Working
+<img src="https://img.shields.io/badge/Working-212030?style=flat-square&logo=esbuild&logoColor=24DBB6">
+
+Paused
+<img src="https://img.shields.io/badge/Paused-212030?style=flat-square&logo=codeforces&logoColor=EE5980">
+--->
