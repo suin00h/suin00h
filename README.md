@@ -1,10 +1,11 @@
+<!--
 <p align=center>
 <img src="https://github-stats-alpha.vercel.app/api?username=suin00h&cc=35155D&tc=FFF&ic=8CABFF&bc=4477CE"> 
 </p>
 
 ## 🦝 I'm now ...
 * 🎓 Undergraduate student in Computer Science and Engineering @ [Korea University](https://www.korea.ac.kr/mbshome/mbs/university/index.do)
-
+* 🚀 Undergraduate intern in [HUI Lab](https://sites.google.com/view/sunghosuh/home) @ Korea University, Department of Artificial Intelligence.
 * 📩 Contact email @ suin00h@korea.ac.kr  
 ## 🔎 Research Interests
 ![CV](https://img.shields.io/badge/ComputerVision-212030?style=flat-square&logo=opencv&logoColor=skyblue)
