@@ -1,6 +1,6 @@
 <p align=center>
 <a href="https://github.com/suin00h">
-    <img src="https://github-stats-alpha.vercel.app/api?username=suin00h&cc=35155D&tc=FFF&ic=8CABFF&bc=4477CE">
+    <img src="https://github-stats-alpha.vercel.app/api?username=suin00h&cc=2C2745&tc=FFF&ic=8CABFF&bc=50589C">
 </a>
 <br/>
 
