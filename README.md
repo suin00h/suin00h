@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=4285F4&labelColor=212030">
 </a> -->
 
-* Pursuing a master's degree in Artificial Intelligence @ [Korea University](https://www.korea.edu/).
-* Conducting research on wearable-based AI and human pose/motion estimation. @ [HUI Lab](https://sites.google.com/view/sunghosuh/home).
+* Pursuing a master's degree in Artificial Intelligence. @ [Korea University](https://www.korea.edu/)
+* Conducting research on wearable-based AI and human pose/motion estimation. @ [HUI Lab](https://sites.google.com/view/sunghosuh/home)
 
 ## 🔎 Research Interests
 ![CV](https://img.shields.io/badge/ComputerVision-skyblue?style=flat-square&logo=opencv&logoColor=skyblue&labelColor=212030)
