@@ -35,7 +35,7 @@
 ### <a href="https://github.com/suin00h/hui-gesture">ISLA Gesture Recognition</a>
 ![Wear](https://img.shields.io/badge/Wearables-8B5DE0?style=flat-square&logo=meta&logoColor=8B5DE0&labelColor=212030)
 ![EMG](https://img.shields.io/badge/Electromyography-664CD9?style=flat-square&logo=electron&logoColor=664CD9&labelColor=212030)
-![Work](https://img.shields.io/badge/Working-24DBB6?style=flat-square&logo=esbuild&logoColor=24DBB6&labelColor=212030)
+![Pause](https://img.shields.io/badge/Paused-EE5980?style=flat-square&logo=codeforces&logoColor=EE5980&labelColor=212030)
 
 ### <a href="https://github.com/suin00h/votenet-reimplementation">VoteNet Reimplementation</a>
 ![3D](https://img.shields.io/badge/3DVision-8A8DED?style=flat-square&logo=gtk&logoColor=8A8DED&labelColor=212030)
@@ -47,5 +47,6 @@
 ![Pause](https://img.shields.io/badge/Paused-EE5980?style=flat-square&logo=codeforces&logoColor=EE5980&labelColor=212030)
 
 <!--
+![Work](https://img.shields.io/badge/Working-24DBB6?style=flat-square&logo=esbuild&logoColor=24DBB6&labelColor=212030)
 ![Fin](https://img.shields.io/badge/Completed-8A485F?style=flat-square&logo=apachespark&logoColor=8A485F&labelColor=212030)
 -->
