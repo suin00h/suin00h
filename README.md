@@ -22,31 +22,36 @@
 
 ## 🔎 Research Interests
 ![CV](https://img.shields.io/badge/ComputerVision-skyblue?style=flat-square&logo=opencv&logoColor=skyblue&labelColor=212030)
-![3D](https://img.shields.io/badge/3DVision-8A8DED?style=flat-square&logo=gtk&logoColor=8A8DED&labelColor=212030)
-![Gen](https://img.shields.io/badge/GenerativeModels-D78FEE?style=flat-square&logo=pinterest&logoColor=D78FEE&labelColor=212030)
+![3D](https://img.shields.io/badge/3DVision-7c7ed5?style=flat-square&logo=gtk&logoColor=8A8DED&labelColor=212030)
+![Gen](https://img.shields.io/badge/GenerativeModels-c180d6?style=flat-square&logo=pinterest&logoColor=D78FEE&labelColor=212030)
 ![Wear](https://img.shields.io/badge/Wearables-8B5DE0?style=flat-square&logo=meta&logoColor=8B5DE0&labelColor=212030)
-![Pose](https://img.shields.io/badge/PoseEstimation-4E56C0?style=flat-square&logo=fastlane&logoColor=4E56C0&labelColor=212030)
+![Pose](https://img.shields.io/badge/Pose-4E56C0?style=flat-square&logo=fastlane&logoColor=8388d2&labelColor=212030)
 
 ## 🔋 Skills
 ![](https://img.shields.io/badge/Python-4B8BBE?&style=flat-square&logo=python&logoColor=4B8BBE&labelColor=212030)
 ![](https://img.shields.io/badge/Pytorch-DE3412?&style=flat-square&logo=pytorch&logoColor=DE3412&labelColor=212030)
 
 ## 💡 Projects
+### <a href="https://github.com/suin00h/must-gcn">MUST-GCN</a>
+![Pose](https://img.shields.io/badge/SkeletonPose-4E56C0?style=flat-square&logo=fastlane&logoColor=8388d2&labelColor=212030)
+![HAR](https://img.shields.io/badge/ActionRecognition-D13A4F?style=flat-sqquare&logo=odysee&logoColor=da6172&labelColor=212030)
+![Work](https://img.shields.io/badge/Working-1caf91?style=flat-square&logo=esbuild&logoColor=20c5a3&labelColor=212030)
+
 ### <a href="https://github.com/suin00h/hui-gesture">ISLA Gesture Recognition</a>
 ![Wear](https://img.shields.io/badge/Wearables-8B5DE0?style=flat-square&logo=meta&logoColor=8B5DE0&labelColor=212030)
 ![EMG](https://img.shields.io/badge/Electromyography-664CD9?style=flat-square&logo=electron&logoColor=664CD9&labelColor=212030)
 ![Pause](https://img.shields.io/badge/Paused-EE5980?style=flat-square&logo=codeforces&logoColor=EE5980&labelColor=212030)
 
 ### <a href="https://github.com/suin00h/votenet-reimplementation">VoteNet Reimplementation</a>
-![3D](https://img.shields.io/badge/3DVision-8A8DED?style=flat-square&logo=gtk&logoColor=8A8DED&labelColor=212030)
+![3D](https://img.shields.io/badge/3DVision-7c7ed5?style=flat-square&logo=gtk&logoColor=8A8DED&labelColor=212030)
 ![Obj](https://img.shields.io/badge/ObjectDetection-50589C?style=flat-square&logo=lens&logoColor=50589C&labelColor=212030)
 ![Pause](https://img.shields.io/badge/Paused-EE5980?style=flat-square&logo=codeforces&logoColor=EE5980&labelColor=212030)
 
 ### <a href="https://github.com/suin00h/catdog-by-cgan">Catdog by CGAN</a>
-![Gen](https://img.shields.io/badge/GenerativeModels-D78FEE?style=flat-square&logo=pinterest&logoColor=D78FEE&labelColor=212030)
+![Gen](https://img.shields.io/badge/GenerativeModels-c180d6?style=flat-square&logo=pinterest&logoColor=D78FEE&labelColor=212030)
 ![Pause](https://img.shields.io/badge/Paused-EE5980?style=flat-square&logo=codeforces&logoColor=EE5980&labelColor=212030)
 
 <!--
-![Work](https://img.shields.io/badge/Working-24DBB6?style=flat-square&logo=esbuild&logoColor=24DBB6&labelColor=212030)
+![Work](https://img.shields.io/badge/Working-1caf91?style=flat-square&logo=esbuild&logoColor=20c5a3&labelColor=212030)
 ![Fin](https://img.shields.io/badge/Completed-8A485F?style=flat-square&logo=apachespark&logoColor=8A485F&labelColor=212030)
 -->
