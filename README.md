@@ -34,7 +34,7 @@
 ## 💡 Projects
 ### <a href="https://github.com/suin00h/must-gcn">MUST-GCN</a>
 ![Pose](https://img.shields.io/badge/SkeletonPose-4E56C0?style=flat-square&logo=fastlane&logoColor=8388d2&labelColor=212030)
-![HAR](https://img.shields.io/badge/ActionRecognition-D13A4F?style=flat-sqquare&logo=odysee&logoColor=da6172&labelColor=212030)
+![HAR](https://img.shields.io/badge/ActionRecognition-D13A4F?style=flat-square&logo=odysee&logoColor=da6172&labelColor=212030)
 ![Work](https://img.shields.io/badge/Working-1caf91?style=flat-square&logo=esbuild&logoColor=20c5a3&labelColor=212030)
 
 ### <a href="https://github.com/suin00h/hui-gesture">ISLA Gesture Recognition</a>
