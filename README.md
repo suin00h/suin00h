@@ -32,6 +32,11 @@
 ![](https://img.shields.io/badge/Pytorch-DE3412?&style=flat-square&logo=pytorch&logoColor=DE3412&labelColor=212030)
 
 ## 💡 Projects
+### <a href="https://github.com/suin00h/hui-emg-imu-gesture">EMG-IMU Gesture Dataset</a>
+![Wear](https://img.shields.io/badge/Wearables-8B5DE0?style=flat-square&logo=meta&logoColor=8B5DE0&labelColor=212030)
+![EMG](https://img.shields.io/badge/Electromyography-664CD9?style=flat-square&logo=electron&logoColor=664CD9&labelColor=212030)
+![Fin](https://img.shields.io/badge/Completed-8A485F?style=flat-square&logo=apachespark&logoColor=8A485F&labelColor=212030)
+
 ### <a href="https://github.com/suin00h/must-gcn">MUST-GCN</a>
 ![Pose](https://img.shields.io/badge/SkeletonPose-4E56C0?style=flat-square&logo=fastlane&logoColor=8388d2&labelColor=212030)
 ![HAR](https://img.shields.io/badge/ActionRecognition-D13A4F?style=flat-square&logo=odysee&logoColor=da6172&labelColor=212030)
